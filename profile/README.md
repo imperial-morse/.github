@@ -7,7 +7,7 @@ The Morse Lab seeks to uncover the level of control this ultrasound technology c
 
 ### The Morse lab aims to: 
 
-Uncover the level of control ultrasound technology can achieve in modulating glial activity
-Understand the mechanisms behind such modulation
-Investigate how this technology is best used to achieve therapeutic benefits as we age
+* Uncover the level of control ultrasound technology can achieve in modulating glial activity
+* Understand the mechanisms behind such modulation
+* Investigate how this technology is best used to achieve therapeutic benefits as we age
 
