@@ -5,7 +5,7 @@ Dr Morse's research has found that focused ultrasound can modulate the activity 
 
 The Morse Lab seeks to uncover the level of control this ultrasound technology can achieve, the mechanisms behind this modulation and how this technology is best applied to achieve therapeutic benefits as we age.
 
-The Morse lab aims to: 
+### The Morse lab aims to: 
 
 Uncover the level of control ultrasound technology can achieve in modulating glial activity
 Understand the mechanisms behind such modulation
